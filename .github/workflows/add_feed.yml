@@ -1,0 +1,43 @@
+name: Personal Protein ADD-feed Updater
+
+# De ADD-feed bevat alle productinfo (beschrijving met ingredienten, voedings-
+# waarden en gebruik, afbeeldingen, gewicht) om met Stock Sync NIEUWE producten
+# aan te maken. Draait 1x per week - nieuwe producten verschijnen niet vaak - en
+# haalt daarbij ~70 pagina's op, dus reken op een paar minuten.
+
+on:
+  schedule:
+    - cron: "0 4 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Python instellen
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Dependencies installeren
+        run: pip install -r requirements.txt
+      - name: ADD-feed scraper draaien
+        run: python add_scraper.py
+      - name: Update-feed meteen mee verversen
+        # Zodat de invariantencontrole twee feeds van hetzelfde moment vergelijkt
+        # en niet struikelt over een product dat sinds vanmorgen weg is.
+        run: python scraper.py
+      - name: Invarianten controleren
+        run: python test_feed.py
+      - name: XML committen en pushen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add personalprotein_add_feed.xml personalprotein_feed.xml personalprotein_overgeslagen.csv personalprotein_tekstbron.csv
+          git diff --staged --quiet || git commit -m "ADD-feed bijgewerkt: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main
+          git push

@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <sku>wpi1kgx2</sku>
+    <barcode/>
+    <title>Pure Whey Isolate 2KG</title>
+    <price>82.90</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>pure-whey-isolate-2kg-2</handle>
+  </product>
+  <product>
+    <sku>lmps1kg</sku>
+    <barcode/>
+    <title>Les Mills Protein Shake 1kg</title>
+    <price>45.00</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>les-mills-protein-shake-1kg</handle>
+  </product>
+  <product>
+    <sku>bar-peanutcaramel</sku>
+    <barcode/>
+    <title>Peanut Caramel 12 repen</title>
+    <price>24.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>peanut-caramel-12-repen</handle>
+  </product>
+  <product>
+    <sku>collageen-250gr-tropical</sku>
+    <barcode/>
+    <title>Collagen Tropical 250 gram</title>
+    <price>18.71</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>collagen-tropical-250-gram</handle>
+  </product>
+  <product>
+    <sku>collageen-250gr-red-fruit</sku>
+    <barcode/>
+    <title>Collagen Red Fruit 250 gram</title>
+    <price>18.71</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>collagen-red-fruit-250-gram</handle>
+  </product>
+  <product>
+    <sku>collageen-250gr-citrus</sku>
+    <barcode/>
+    <title>Collagen Citrus 250 gram</title>
+    <price>18.71</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>collagen-citrus-250-gram</handle>
+  </product>
+  <product>
+    <sku>vitaminde-d3-240st</sku>
+    <barcode/>
+    <title>Vitamine D3 240 st.</title>
+    <price>10.27</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>vitamine-d3-240-st</handle>
+  </product>
+  <product>
+    <sku>bakeiwit-neutraal1kg</sku>
+    <barcode/>
+    <title>Bakeiwit Neutraal 1 kilo</title>
+    <price>46.83</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>bakeiwit-neutraal-300-1-kilo</handle>
+  </product>
+  <product>
+    <sku>bakeiwit-speculoos1kg</sku>
+    <barcode/>
+    <title>Bakeiwit Speculoos 1 kilo</title>
+    <price>46.83</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>bakeiwit-speculoos-1-kilo</handle>
+  </product>
+  <product>
+    <sku>protein-water-peach</sku>
+    <barcode/>
+    <title>Protein Water Peach 6-pack</title>
+    <price>16.04</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>protein-water-peach-6-pack</handle>
+  </product>
+  <product>
+    <sku>protein-water-citrus</sku>
+    <barcode/>
+    <title>Protein Water Citrus 6-pack</title>
+    <price>16.04</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>protein-water-citrus-6-pack</handle>
+  </product>
+  <product>
+    <sku>bakeiwit-neutraal</sku>
+    <barcode/>
+    <title>Bakeiwit Neutraal 300 gram</title>
+    <price>14.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>bakeiwit-neutraal-300-gram</handle>
+  </product>
+  <product>
+    <sku>bakeiwit-speculoos</sku>
+    <barcode/>
+    <title>Bakeiwit Speculoos 300 gram</title>
+    <price>14.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>bakeiwit-speculoos-300-gram</handle>
+  </product>
+  <product>
+    <sku>bakeiwit-chocolade1kg</sku>
+    <barcode/>
+    <title>Bakeiwit Chocolade 1 kilo</title>
+    <price>46.73</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>bakeiwit-chocolade-1kg</handle>
+  </product>
+  <product>
+    <sku>bakeiwit-vanille1kg</sku>
+    <barcode/>
+    <title>Bakeiwit Vanille 1 kilo</title>
+    <price>46.73</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>bakeiwit-vanille-1kg</handle>
+  </product>
+  <product>
+    <sku>bakeiwit-chocolade</sku>
+    <barcode/>
+    <title>Bakeiwit Chocolade 300 gram</title>
+    <price>14.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>bakeiwit-chocolade-300-gram</handle>
+  </product>
+  <product>
+    <sku>bakeiwit-vanille 300</sku>
+    <barcode/>
+    <title>Bakeiwit Vanille 300 gram</title>
+    <price>14.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>bakeiwit-vanille-300-gram</handle>
+  </product>
+  <product>
+    <sku>shot-van</sku>
+    <barcode/>
+    <title>Vanilla Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>vanilla-shot</handle>
+  </product>
+  <product>
+    <sku>creatine-500gr</sku>
+    <barcode/>
+    <title>Creatine 500 gram</title>
+    <price>13.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>creatine-500-gram</handle>
+  </product>
+  <product>
+    <sku>veganpancakemix1kg</sku>
+    <barcode/>
+    <title>Vegan Protein Pancake Mix 1kg</title>
+    <price>20.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>vegan-protein-pancake-mix-1kg</handle>
+  </product>
+  <product>
+    <sku>pancakemix1kg</sku>
+    <barcode/>
+    <title>Protein Pancake Mix 1kg</title>
+    <price>24.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>protein-pancake-mix-1kg</handle>
+  </product>
+  <product>
+    <sku>omega-3-90st</sku>
+    <barcode/>
+    <title>Omega-3 90 st.</title>
+    <price>10.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>omega-3-90st</handle>
+  </product>
+  <product>
+    <sku>magnesium-90st</sku>
+    <barcode/>
+    <title>Magnesium 90 st.</title>
+    <price>10.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>magnesium-90st</handle>
+  </product>
+  <product>
+    <sku>multivitamine-120st</sku>
+    <barcode/>
+    <title>Multi Vitamine 120 st.</title>
+    <price>10.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>multi-vitamines-120st</handle>
+  </product>
+  <product>
+    <sku>collageen-250gr</sku>
+    <barcode/>
+    <title>Collageen 250 gram</title>
+    <price>19.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>collageen-250-gram</handle>
+  </product>
+  <product>
+    <sku>creatine-250gr</sku>
+    <barcode/>
+    <title>Creatine 250 gram</title>
+    <price>9.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>creatine-250gram</handle>
+  </product>
+  <product>
+    <sku>iso-lime</sku>
+    <barcode/>
+    <title>Isotone sportdrank Lime 500 gram</title>
+    <price>9.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>isotone-sportdrank-lime-500gram</handle>
+  </product>
+  <product>
+    <sku>iso-orange</sku>
+    <barcode/>
+    <title>Isotone sportdrank Orange 500 gram</title>
+    <price>9.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>isotone-sportdrank-orange-500gram</handle>
+  </product>
+  <product>
+    <sku>pre-tropical</sku>
+    <barcode/>
+    <title>Pre-Workout Tropical 300 gram</title>
+    <price>19.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>pre-workout-tropical-300gram</handle>
+  </product>
+  <product>
+    <sku>pre-raspberry</sku>
+    <barcode/>
+    <title>Pre-Workout Raspberry 300 gram</title>
+    <price>19.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>pre-workout-raspberry-300gram</handle>
+  </product>
+  <product>
+    <sku>pre-peach</sku>
+    <barcode/>
+    <title>Pre-Workout Peach 300 gram</title>
+    <price>19.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>pre-work-out-peach-300gram</handle>
+  </product>
+  <product>
+    <sku>vcwi0,32 kg</sku>
+    <barcode/>
+    <title>Clear Vegan Protein 320gr</title>
+    <price>19.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>clear-vegan-protein-320gr</handle>
+  </product>
+  <product>
+    <sku>milkshake1kg</sku>
+    <barcode/>
+    <title>Protein Milkshake 1kg</title>
+    <price>34.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>protein-milkshake-1kg</handle>
+  </product>
+  <product>
+    <sku>wpc2kg</sku>
+    <barcode/>
+    <title>Pure Whey 2KG</title>
+    <price>74.50</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>pure-whey-2kg</handle>
+  </product>
+  <product>
+    <sku>wpc1kg</sku>
+    <barcode/>
+    <title>Pure Whey 1KG</title>
+    <price>38.00</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>pure-whey-1kg</handle>
+  </product>
+  <product>
+    <sku>wpi2kg</sku>
+    <barcode/>
+    <title>Pure Whey Isolate 2KG</title>
+    <price>69.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>pure-whey-isolate-2kg</handle>
+  </product>
+  <product>
+    <sku>wpi1kg</sku>
+    <barcode/>
+    <title>Pure Whey Isolate 1KG</title>
+    <price>47.50</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>pure-whey-isolate-1kg</handle>
+  </product>
+  <product>
+    <sku>shot-ban</sku>
+    <barcode/>
+    <title>Banana Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>banana-shot</handle>
+  </product>
+  <product>
+    <sku>shot-coco</sku>
+    <barcode/>
+    <title>Coconut Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>coconut-shot</handle>
+  </product>
+  <product>
+    <sku>shot-choc</sku>
+    <barcode/>
+    <title>Chocolate Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>chocolate-shot</handle>
+  </product>
+  <product>
+    <sku>shot-red-fruit</sku>
+    <barcode/>
+    <title>Clear Red Fruit Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>red-fruit-shot</handle>
+  </product>
+  <product>
+    <sku>shot-straw</sku>
+    <barcode/>
+    <title>Strawberry Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>strawberry-shot</handle>
+  </product>
+  <product>
+    <sku>shot-lemon</sku>
+    <barcode/>
+    <title>Clear Lemon Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>lemon-shot</handle>
+  </product>
+  <product>
+    <sku>shot-raspberry-clear</sku>
+    <barcode/>
+    <title>Clear Raspberry Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>raspberry-shot</handle>
+  </product>
+  <product>
+    <sku>shot-car</sku>
+    <barcode/>
+    <title>Caramel Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>caramel-shot</handle>
+  </product>
+  <product>
+    <sku>shot-sour-berry</sku>
+    <barcode/>
+    <title>Clear Sour Berry Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>sour-berry-shot</handle>
+  </product>
+  <product>
+    <sku>shot-blue-slush</sku>
+    <barcode/>
+    <title>Clear Blue Slush Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>blue-slush-shot</handle>
+  </product>
+  <product>
+    <sku>cwi0,75 kg</sku>
+    <barcode/>
+    <title>Clear Whey Isolate 750gr</title>
+    <price>45.50</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>clear-whey-isolate-750gr</handle>
+  </product>
+  <product>
+    <sku>shot-tropical</sku>
+    <barcode/>
+    <title>Clear Tropical Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>clear-tropical-shot</handle>
+  </product>
+  <product>
+    <sku>shot-lemon-lime</sku>
+    <barcode/>
+    <title>Clear Lemon Lime Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>clear-lemon-lime-shot</handle>
+  </product>
+  <product>
+    <sku>shot-cola</sku>
+    <barcode/>
+    <title>Clear Cola Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>clear-cola-shot</handle>
+  </product>
+  <product>
+    <sku>shot-blood-orange</sku>
+    <barcode/>
+    <title>Clear Blood Orange Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>clear-blood-orange-shot</handle>
+  </product>
+  <product>
+    <sku>vms1kg</sku>
+    <barcode/>
+    <title>Vegan Diet Shake 1kg</title>
+    <price>29.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>vegan-diet-shake-1kg</handle>
+  </product>
+  <product>
+    <sku>dietshake1kg</sku>
+    <barcode/>
+    <title>Diet Shake 1kg</title>
+    <price>29.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>diet-shake-1kg</handle>
+  </product>
+  <product>
+    <sku>shot-cappu</sku>
+    <barcode/>
+    <title>Cappuccino Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>cappuccino-shot</handle>
+  </product>
+  <product>
+    <sku>shot-strp</sku>
+    <barcode/>
+    <title>Stroopwafel Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>stroopwafel-shot</handle>
+  </product>
+  <product>
+    <sku>shot-ice-tea</sku>
+    <barcode/>
+    <title>Clear Ice Tea Peach Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>ice-tea-peach-shot</handle>
+  </product>
+  <product>
+    <sku>shot-mf</sku>
+    <barcode/>
+    <title>Mixed Fruit Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>mixed-fruit-shot</handle>
+  </product>
+  <product>
+    <sku>sp1kg-los</sku>
+    <barcode/>
+    <title>Vegan Soy Protein 1kg</title>
+    <price>22.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>vegan-soy-protein-1-kg</handle>
+  </product>
+  <product>
+    <sku>shot-man</sku>
+    <barcode/>
+    <title>Mango Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>mango-shot</handle>
+  </product>
+  <product>
+    <sku>shot-suiker</sku>
+    <barcode/>
+    <title>Suikerspin Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>suikerspin-shot</handle>
+  </product>
+  <product>
+    <sku>peap1kg</sku>
+    <barcode/>
+    <title>Vegan Pea Protein 1kg</title>
+    <price>22.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>vegan-pea-protein-1-kilo</handle>
+  </product>
+  <product>
+    <sku>shot-pea</sku>
+    <barcode/>
+    <title>Peach Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>peach-shot</handle>
+  </product>
+  <product>
+    <sku>shot-honey</sku>
+    <barcode/>
+    <title>Honey Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>honey-shot</handle>
+  </product>
+  <product>
+    <sku>shot-cheese</sku>
+    <barcode/>
+    <title>Cheesecake Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>cheesecake-shot</handle>
+  </product>
+  <product>
+    <sku>shot-apple</sku>
+    <barcode/>
+    <title>Apple Cinnamon Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>apple-cinnamon-shot</handle>
+  </product>
+  <product>
+    <sku>shot-cit</sku>
+    <barcode/>
+    <title>Citrus Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>citrus-shot</handle>
+  </product>
+  <product>
+    <sku>shot-bb</sku>
+    <barcode/>
+    <title>Blueberry Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>blueberry-shot</handle>
+  </product>
+  <product>
+    <sku>shot-nat.van</sku>
+    <barcode/>
+    <title>Natural Vanilla Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>natural-vanilla-shot</handle>
+  </product>
+  <product>
+    <sku>shot-nat.straw</sku>
+    <barcode/>
+    <title>Natural Strawberry Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>natural-strawberry-shot</handle>
+  </product>
+  <product>
+    <sku>shot-nat.car</sku>
+    <barcode/>
+    <title>Natural Caramel Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <handle>natural-caramel-shot</handle>
+  </product>
+  <product>
+    <sku>shot-cookie</sku>
+    <barcode/>
+    <title>Cookie Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>cookie-shot</handle>
+  </product>
+  <product>
+    <sku>shot-spec</sku>
+    <barcode/>
+    <title>Speculaas Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>speculaas-shot</handle>
+  </product>
+  <product>
+    <sku>shot-sunset</sku>
+    <barcode/>
+    <title>Clear Sunset Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>sunset-shot</handle>
+  </product>
+  <product>
+    <sku>shot-tom</sku>
+    <barcode/>
+    <title>Tompouce Shot</title>
+    <price>4.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>tompouce-shot</handle>
+  </product>
+  <product>
+    <sku>bar-blueberrycheesecake</sku>
+    <barcode/>
+    <title>Blueberry Cheesecake 12 repen</title>
+    <price>24.95</price>
+    <compare_at_price/>
+    <available>false</available>
+    <handle>blueberry-cheesecake-12-repen</handle>
+  </product>
+</products>

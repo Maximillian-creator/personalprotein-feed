@@ -1,0 +1,77 @@
+sku,titel,tekstbron,woorden,afbeeldingen,gewicht_g,prijs,prijs_regulier,prijs_actie,op_voorraad
+wpi1kgx2,Pure Whey Isolate 2KG,Pure Whey Isolate,339,1,2000,82.90,82.90,82.90,ja
+lmps1kg,Les Mills Protein Shake 1kg,GEEN TEKST,0,1,1000,45.00,45.00,33.75,nee
+bar-peanutcaramel,Peanut Caramel 12 repen,Peanut Caramel Protein Bar,244,1,,24.95,24.95,17.46,nee
+collageen-250gr-tropical,Collagen Tropical 250 gram,Collagen Flavoured,745,1,250,18.71,18.71,13.10,nee
+collageen-250gr-red-fruit,Collagen Red Fruit 250 gram,Collagen Flavoured,745,1,250,18.71,18.71,13.10,nee
+collageen-250gr-citrus,Collagen Citrus 250 gram,Collagen Flavoured,745,1,250,18.71,18.71,13.10,nee
+vitaminde-d3-240st,Vitamine D3 240 st.,Vitamine D3,246,1,,10.27,10.27,6.15,ja
+bakeiwit-neutraal1kg,Bakeiwit Neutraal 1 kilo,Bakeiwit,559,1,1000,46.83,46.83,46.83,ja
+bakeiwit-speculoos1kg,Bakeiwit Speculoos 1 kilo,Bakeiwit,559,1,1000,46.83,46.83,46.83,ja
+protein-water-peach,Protein Water Peach 6-pack,Protein Water,277,1,,16.04,16.04,8.02,nee
+protein-water-citrus,Protein Water Citrus 6-pack,Protein Water,277,1,,16.04,16.04,8.02,nee
+bakeiwit-neutraal,Bakeiwit Neutraal 300 gram,Bakeiwit,559,1,300,14.95,14.95,14.95,ja
+bakeiwit-speculoos,Bakeiwit Speculoos 300 gram,Bakeiwit,559,1,300,14.95,14.95,14.95,ja
+bakeiwit-chocolade1kg,Bakeiwit Chocolade 1 kilo,Bakeiwit,559,1,1000,46.73,46.73,46.73,ja
+bakeiwit-vanille1kg,Bakeiwit Vanille 1 kilo,Bakeiwit,559,1,1000,46.73,46.73,46.73,ja
+bakeiwit-chocolade,Bakeiwit Chocolade 300 gram,Bakeiwit,559,1,300,14.95,14.95,14.95,ja
+bakeiwit-vanille 300,Bakeiwit Vanille 300 gram,Bakeiwit,559,1,300,14.95,14.95,14.95,ja
+shot-van,Vanilla Shot,eigen pagina,206,2,,4.95,4.95,3.96,ja
+creatine-500gr,Creatine 500 gram,Creatine Monohydraat,268,1,500,13.95,13.95,13.95,ja
+veganpancakemix1kg,Vegan Protein Pancake Mix 1kg,Vegan Protein Pancake Mix,405,1,1000,20.95,20.95,12.57,nee
+pancakemix1kg,Protein Pancake Mix 1kg,Protein Pancake Mix,418,1,1000,24.95,24.95,17.46,nee
+omega-3-90st,Omega-3 90 st.,Omega 3 Visolie,235,1,,10.95,10.95,6.57,nee
+magnesium-90st,Magnesium 90 st.,Magnesium Citraat,191,1,,10.95,10.95,6.57,nee
+multivitamine-120st,Multi Vitamine 120 st.,Multivitamine,347,1,,10.95,10.95,6.57,nee
+collageen-250gr,Collageen 250 gram,Gehydrolyseerd Collageen,297,1,250,19.95,19.95,13.96,nee
+creatine-250gr,Creatine 250 gram,Creatine Monohydraat,268,1,250,9.95,9.95,9.95,ja
+iso-lime,Isotone sportdrank Lime 500 gram,Isotone Sportdrank,350,1,500,9.95,9.95,4.98,ja
+iso-orange,Isotone sportdrank Orange 500 gram,Isotone Sportdrank,350,1,500,9.95,9.95,4.98,ja
+pre-tropical,Pre-Workout Tropical 300 gram,Pre-Workout,655,2,300,19.95,19.95,11.97,ja
+pre-raspberry,Pre-Workout Raspberry 300 gram,Pre-Workout,655,1,300,19.95,19.95,11.97,ja
+pre-peach,Pre-Workout Peach 300 gram,Pre-Workout,655,1,300,19.95,19.95,11.97,ja
+"vcwi0,32 kg",Clear Vegan Protein 320gr,Clear Vegan Protein,348,1,320,19.95,19.95,11.97,nee
+milkshake1kg,Protein Milkshake 1kg,Protein Milkshake,360,2,1000,34.95,34.95,20.97,nee
+wpc2kg,Pure Whey 2KG,Pure Whey,351,1,2000,74.50,74.50,74.50,ja
+wpc1kg,Pure Whey 1KG,Pure Whey,351,1,1000,38.00,38.00,38.00,ja
+wpi2kg,Pure Whey Isolate 2KG,GEEN TEKST,0,1,2000,69.95,69.95,69.95,ja
+wpi1kg,Pure Whey Isolate 1KG,Pure Whey Isolate,339,1,1000,47.50,47.50,47.50,ja
+shot-ban,Banana Shot,eigen pagina,207,2,,4.95,4.95,3.96,ja
+shot-coco,Coconut Shot,eigen pagina,206,2,,4.95,4.95,3.96,ja
+shot-choc,Chocolate Shot,eigen pagina,206,2,,4.95,4.95,3.96,ja
+shot-red-fruit,Clear Red Fruit Shot,eigen pagina,237,3,,4.95,4.95,4.95,ja
+shot-straw,Strawberry Shot,eigen pagina,207,2,,4.95,4.95,3.96,ja
+shot-lemon,Clear Lemon Shot,alleen korte omschrijving,23,3,,4.95,4.95,2.95,nee
+shot-raspberry-clear,Clear Raspberry Shot,eigen pagina,228,1,,4.95,4.95,2.48,ja
+shot-car,Caramel Shot,eigen pagina,206,2,,4.95,4.95,3.96,ja
+shot-sour-berry,Clear Sour Berry Shot,alleen korte omschrijving,22,2,,4.95,4.95,3.71,nee
+shot-blue-slush,Clear Blue Slush Shot,alleen korte omschrijving,26,3,,4.95,4.95,2.95,nee
+"cwi0,75 kg",Clear Whey Isolate 750gr,Clear Whey Isolate,358,6,750,45.50,45.50,45.50,ja
+shot-tropical,Clear Tropical Shot,eigen pagina,225,3,,4.95,4.95,4.95,ja
+shot-lemon-lime,Clear Lemon Lime Shot,alleen korte omschrijving,22,3,,4.95,4.95,2.95,nee
+shot-cola,Clear Cola Shot,alleen korte omschrijving,22,2,,4.95,4.95,2.95,nee
+shot-blood-orange,Clear Blood Orange Shot,alleen korte omschrijving,22,3,,4.95,4.95,2.95,nee
+vms1kg,Vegan Diet Shake 1kg,Vegan Diet Shake,661,1,1000,29.95,29.95,17.97,nee
+dietshake1kg,Diet Shake 1kg,Diet Shake,656,2,1000,29.95,29.95,20.96,nee
+shot-cappu,Cappuccino Shot,eigen pagina,206,2,,4.95,4.95,3.96,ja
+shot-strp,Stroopwafel Shot,eigen pagina,207,2,,4.95,4.95,2.48,ja
+shot-ice-tea,Clear Ice Tea Peach Shot,eigen pagina,243,3,,4.95,4.95,2.48,ja
+shot-mf,Mixed Fruit Shot,eigen pagina,212,2,,4.95,4.95,2.48,ja
+sp1kg-los,Vegan Soy Protein 1kg,Soja Eiwit,352,1,1000,22.95,22.95,18.36,ja
+shot-man,Mango Shot,eigen pagina,207,2,,4.95,4.95,3.96,ja
+shot-suiker,Suikerspin Shot,alleen korte omschrijving,21,2,,4.95,4.95,2.95,nee
+peap1kg,Vegan Pea Protein 1kg,Erwten Eiwit,355,1,1000,22.95,22.95,22.95,ja
+shot-pea,Peach Shot,alleen korte omschrijving,21,2,,4.95,4.95,4.21,nee
+shot-honey,Honey Shot,eigen pagina,206,1,,4.95,4.95,2.48,ja
+shot-cheese,Cheesecake Shot,eigen pagina,206,2,,4.95,4.95,2.48,ja
+shot-apple,Apple Cinnamon Shot,eigen pagina,207,2,,4.95,4.95,2.48,ja
+shot-cit,Citrus Shot,alleen korte omschrijving,21,2,,4.95,4.95,2.97,nee
+shot-bb,Blueberry Shot,alleen korte omschrijving,21,2,,4.95,4.95,2.95,nee
+shot-nat.van,Natural Vanilla Shot,eigen pagina,209,2,,4.95,4.95,2.48,ja
+shot-nat.straw,Natural Strawberry Shot,eigen pagina,209,2,,4.95,4.95,2.48,ja
+shot-nat.car,Natural Caramel Shot,eigen pagina,205,2,,4.95,4.95,2.48,ja
+shot-cookie,Cookie Shot,alleen korte omschrijving,21,2,,4.95,4.95,2.48,nee
+shot-spec,Speculaas Shot,alleen korte omschrijving,21,2,,4.95,4.95,4.21,nee
+shot-sunset,Clear Sunset Shot,alleen korte omschrijving,24,3,,4.95,4.95,2.95,nee
+shot-tom,Tompouce Shot,alleen korte omschrijving,21,2,,4.95,4.95,2.95,nee
+bar-blueberrycheesecake,Blueberry Cheesecake 12 repen,Blueberry Cheesecake Protein Bar,232,1,,24.95,24.95,17.46,nee

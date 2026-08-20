@@ -1,0 +1,38 @@
+sku,naam,type,reden
+bar-cheese-12,Blueberry Cheesecake Protein Bar,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+bar-peanut-12,Peanut Caramel Protein Bar,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+creatine-2x250gr,Creatine 500 gram,bundle,configurator/bundel (bundle) - geen eigen prijs of SKU
+pure-whey-isolate,Pure Whey Isolate,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+purewhey,Pure Whey,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+bakeiwit,Bakeiwit,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+creatine,Creatine Monohydraat,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+vitamined3,Vitamine D3,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+protein-water,Protein Water,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+collageenmetsmaak,Collagen Flavoured,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+pack,Pack,simple,prijs is 0
+refill,Refill Jar,simple,merch/accessoire (kleding en accessoires)
+build-your-pack,Build Your Pack,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+pancakemix,Protein Pancake Mix,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+bycfp4,Build Your Clear Flavour 4-Pack,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+byfp4,Build Your Flavour 4-Pack,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+pre,Pre-Workout,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+collageen,Gehydrolyseerd Collageen,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+722,Protein Try-out Pack,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+pp-handoek,Sports Towel,simple,"merch/accessoire (extra's, kleding en accessoires)"
+veganclear,Clear Vegan Protein,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+811,Clear Protein Try-out Pack,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+buildyourclearpack,Build Your Clear Pack,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+clearwhey,Clear Whey Isolate,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+clear-shaker,Clear Shaker,simple,"merch/accessoire (extra's, kleding en accessoires)"
+milkshake,Protein Milkshake,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+magnesium,Magnesium Citraat,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+omega,Omega 3 Visolie,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+isotone,Isotone Sportdrank,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+vegandiet,Vegan Diet Shake,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+veganpancakemix,Vegan Protein Pancake Mix,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+diet,Diet Shake,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+soyprotein,Soja Eiwit,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+shaker,Black Shaker,simple,"merch/accessoire (extra's, kleding en accessoires)"
+multivitamine,Multivitamine,composite,configurator/bundel (composite) - geen eigen prijs of SKU
+tas,Tote Bag,simple,"merch/accessoire (extra's, kleding en accessoires)"
+peaprotein,Erwten Eiwit,composite,configurator/bundel (composite) - geen eigen prijs of SKU
