@@ -69,6 +69,11 @@ MERCH_CATEGORIEEN = {"kleding en accessoires", "extra's", "accessoires"}
 # niet mee mogen in onze eigen productteksten.
 SECTIE_NIET_OVERNEMEN = {"support", "reviews", "verzending", "retour"}
 
+# Categorieen die reclame zijn, geen soort product. "Bestseller" is geen
+# producttype; "Eiwitshakes" wel.
+GEEN_PRODUCTTYPE = {"bestseller", "summer sale", "sale", "aanbieding", "nieuw",
+                    "uitverkoop", "packs", "extra's"}
+
 
 # --------------------------------------------------------------------------- #
 # HTTP
@@ -214,7 +219,7 @@ def fetch_configurators(configurators):
             "naam": c["name"],
             "component_ids": ids,
             "secties": secties,
-            "categorie": (c["categories"][0]["name"] if c.get("categories") else ""),
+            "categorieen": [k["name"] for k in c.get("categories", [])],
             "tags": [t["name"] for t in c.get("tags", [])],
             "images": [img["src"] for img in c.get("images", []) if img.get("src")],
             "short": c.get("short_description", "") or "",
@@ -331,6 +336,20 @@ def bouw_beschrijving(product, ouder, eigen_secties=None):
     return "\n".join(delen)
 
 
+def kies_producttype(eigen_categorieen, ouder):
+    """De eerste echte categorie; anders die van de configurator.
+
+    Producten staan vaak in "Bestseller" of "Summer Sale" voordat ze in
+    "Eiwitshakes" staan - en dan zou het producttype in Shopify "Bestseller"
+    worden. Ook "Extra's" telt niet mee: dat is de restbak van Personal Protein,
+    daar staan vitaminen en pre-workout naast elkaar in.
+    """
+    for c in eigen_categorieen + (ouder["categorieen"] if ouder else []):
+        if c.lower() not in GEEN_PRODUCTTYPE:
+            return c
+    return ""
+
+
 def normaliseer(product, ouder, eigen_secties=None):
     eigen_cats = [c["name"] for c in product.get("categories", [])]
     eigen_tags = [t["name"] for t in product.get("tags", [])]
@@ -345,8 +364,7 @@ def normaliseer(product, ouder, eigen_secties=None):
         "title": product["name"],
         "vendor": BRAND,
         "brand": BRAND,
-        "product_type": (eigen_cats[0] if eigen_cats
-                         else (ouder["categorie"] if ouder else "")),
+        "product_type": kies_producttype(eigen_cats, ouder),
         "tags": ", ".join(dict.fromkeys(eigen_tags + (ouder["tags"] if ouder else []))),
         "description": bouw_beschrijving(product, ouder, eigen_secties),
         "images": images,
