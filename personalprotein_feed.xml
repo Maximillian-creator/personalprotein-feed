@@ -501,7 +501,7 @@
     <title>Stroopwafel Shot</title>
     <price>4.95</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <handle>stroopwafel-shot</handle>
   </product>
   <product>
