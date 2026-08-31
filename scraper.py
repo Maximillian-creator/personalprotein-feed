@@ -56,6 +56,7 @@ def main():
     start = time.time()
     products = pc.fetch_products(met_teksten=False)
     root = build_xml(products)
+    pc.controleer_omvang(len(root.findall("product")), OUTPUT_FILE)
     save_xml(root, OUTPUT_FILE)
     print(f"Klaar in {time.time() - start:.0f}s - {len(products)} producten")
     print("\nFeed-URL voor Stock Sync (Update):")

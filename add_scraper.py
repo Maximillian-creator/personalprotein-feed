@@ -113,6 +113,7 @@ def main():
     start = time.time()
     products = pc.fetch_products(met_teksten=True)
     root = build_xml(products)
+    pc.controleer_omvang(len(root.findall("product")), OUTPUT_FILE)
     save_xml(root, OUTPUT_FILE)
     schrijf_tekstbron(products)
 
