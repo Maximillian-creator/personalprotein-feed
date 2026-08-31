@@ -19,7 +19,7 @@ bakeiwit-vanille 300,Bakeiwit Vanille 300 gram,Bakeiwit,559,1,300,14.95,14.95,14
 shot-van,Vanilla Shot,eigen pagina,206,2,,4.95,4.95,3.96,ja
 creatine-500gr,Creatine 500 gram,Creatine Monohydraat,268,1,500,13.95,13.95,13.95,ja
 veganpancakemix1kg,Vegan Protein Pancake Mix 1kg,Vegan Protein Pancake Mix,405,1,1000,20.95,20.95,12.57,nee
-pancakemix1kg,Protein Pancake Mix 1kg,Protein Pancake Mix,418,1,1000,24.95,24.95,17.46,nee
+pancakemix1kg,Protein Pancake Mix 1kg,Protein Pancake Mix,418,1,1000,24.95,24.95,17.46,ja
 omega-3-90st,Omega-3 90 st.,Omega 3 Visolie,235,1,,10.95,10.95,6.57,nee
 magnesium-90st,Magnesium 90 st.,Magnesium Citraat,191,1,,10.95,10.95,6.57,nee
 multivitamine-120st,Multi Vitamine 120 st.,Multivitamine,347,1,,10.95,10.95,6.57,nee
@@ -53,8 +53,8 @@ shot-cola,Clear Cola Shot,alleen korte omschrijving,22,2,,4.95,4.95,2.95,nee
 shot-blood-orange,Clear Blood Orange Shot,alleen korte omschrijving,22,3,,4.95,4.95,2.95,nee
 vms1kg,Vegan Diet Shake 1kg,Vegan Diet Shake,661,1,1000,29.95,29.95,17.97,nee
 dietshake1kg,Diet Shake 1kg,Diet Shake,656,2,1000,29.95,29.95,20.96,nee
-shot-cappu,Cappuccino Shot,eigen pagina,206,2,,4.95,4.95,3.96,ja
-shot-strp,Stroopwafel Shot,eigen pagina,207,2,,4.95,4.95,2.48,ja
+shot-cappu,Cappuccino Shot,alleen korte omschrijving,21,2,,4.95,4.95,3.96,nee
+shot-strp,Stroopwafel Shot,alleen korte omschrijving,21,2,,4.95,4.95,2.48,nee
 shot-ice-tea,Clear Ice Tea Peach Shot,eigen pagina,243,3,,4.95,4.95,2.48,ja
 shot-mf,Mixed Fruit Shot,eigen pagina,212,2,,4.95,4.95,2.48,ja
 sp1kg-los,Vegan Soy Protein 1kg,Soja Eiwit,352,1,1000,22.95,22.95,18.36,ja
