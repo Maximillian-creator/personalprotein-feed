@@ -1,5 +1,5 @@
 sku,titel,tekstbron,woorden,afbeeldingen,gewicht_g,prijs,prijs_regulier,prijs_actie,op_voorraad
-wpi1kgx2,Pure Whey Isolate 2KG,Pure Whey Isolate,339,1,2000,82.90,82.90,82.90,ja
+wpi1kgx2,Pure Whey Isolate 2KG,GEEN TEKST,0,1,2000,82.90,82.90,82.90,ja
 lmps1kg,Les Mills Protein Shake 1kg,GEEN TEKST,0,1,1000,45.00,45.00,33.75,nee
 bar-peanutcaramel,Peanut Caramel 12 repen,Peanut Caramel Protein Bar,244,1,,24.95,24.95,17.46,nee
 collageen-250gr-tropical,Collagen Tropical 250 gram,Collagen Flavoured,745,1,250,18.71,18.71,13.10,nee
@@ -28,14 +28,14 @@ creatine-250gr,Creatine 250 gram,Creatine Monohydraat,268,1,250,9.95,9.95,9.95,j
 iso-lime,Isotone sportdrank Lime 500 gram,Isotone Sportdrank,350,1,500,9.95,9.95,4.98,ja
 iso-orange,Isotone sportdrank Orange 500 gram,Isotone Sportdrank,350,1,500,9.95,9.95,4.98,ja
 pre-tropical,Pre-Workout Tropical 300 gram,Pre-Workout,655,2,300,19.95,19.95,11.97,ja
-pre-raspberry,Pre-Workout Raspberry 300 gram,Pre-Workout,655,1,300,19.95,19.95,11.97,ja
+pre-raspberry,Pre-Workout Raspberry 300 gram,Pre-Workout,655,1,300,19.95,19.95,11.97,nee
 pre-peach,Pre-Workout Peach 300 gram,Pre-Workout,655,1,300,19.95,19.95,11.97,ja
 "vcwi0,32 kg",Clear Vegan Protein 320gr,Clear Vegan Protein,348,1,320,19.95,19.95,11.97,nee
 milkshake1kg,Protein Milkshake 1kg,Protein Milkshake,360,2,1000,34.95,34.95,20.97,nee
 wpc2kg,Pure Whey 2KG,Pure Whey,351,1,2000,74.50,74.50,74.50,ja
 wpc1kg,Pure Whey 1KG,Pure Whey,351,1,1000,38.00,38.00,38.00,ja
-wpi2kg,Pure Whey Isolate 2KG,GEEN TEKST,0,1,2000,69.95,69.95,69.95,ja
-wpi1kg,Pure Whey Isolate 1KG,Pure Whey Isolate,339,1,1000,47.50,47.50,47.50,ja
+wpi2kg,Pure Whey Isolate 2KG,Pure Whey Isolate,339,1,2000,82.90,82.90,82.90,ja
+wpi1kg,Pure Whey Isolate 1KG,Pure Whey Isolate,339,1,1000,47.50,47.50,47.50,nee
 shot-ban,Banana Shot,eigen pagina,207,2,,4.95,4.95,3.96,ja
 shot-coco,Coconut Shot,eigen pagina,206,2,,4.95,4.95,3.96,ja
 shot-choc,Chocolate Shot,eigen pagina,206,2,,4.95,4.95,3.96,ja
@@ -67,7 +67,7 @@ shot-cheese,Cheesecake Shot,alleen korte omschrijving,21,2,,4.95,4.95,2.48,nee
 shot-apple,Apple Cinnamon Shot,eigen pagina,207,2,,4.95,4.95,2.48,ja
 shot-cit,Citrus Shot,alleen korte omschrijving,21,2,,4.95,4.95,2.97,nee
 shot-bb,Blueberry Shot,alleen korte omschrijving,21,2,,4.95,4.95,2.95,nee
-shot-nat.van,Natural Vanilla Shot,eigen pagina,209,2,,4.95,4.95,2.48,ja
+shot-nat.van,Natural Vanilla Shot,alleen korte omschrijving,21,2,,4.95,4.95,2.48,nee
 shot-nat.straw,Natural Strawberry Shot,eigen pagina,209,2,,4.95,4.95,2.48,ja
 shot-nat.car,Natural Caramel Shot,eigen pagina,205,2,,4.95,4.95,2.48,ja
 shot-cookie,Cookie Shot,alleen korte omschrijving,21,2,,4.95,4.95,2.48,nee
