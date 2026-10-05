@@ -258,7 +258,7 @@
     <title>Pre-Workout Tropical 300 gram</title>
     <price>19.95</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <handle>pre-workout-tropical-300gram</handle>
   </product>
   <product>
@@ -276,7 +276,7 @@
     <title>Pre-Workout Peach 300 gram</title>
     <price>19.95</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <handle>pre-work-out-peach-300gram</handle>
   </product>
   <product>
