@@ -10570,7 +10570,7 @@ Suikervrij &amp; Lactosearm&lt;/p&gt;
         <barcode/>
         <price>14.95</price>
         <compare_at_price/>
-        <available>false</available>
+        <available>true</available>
         <variant_title>Bakeiwit Vanille 300 gram</variant_title>
         <option1>Bakeiwit Vanille 300 gram</option1>
         <weight>300</weight>
@@ -19746,7 +19746,7 @@ waarvan suikers/of which sugars&lt;/p&gt;
         <barcode/>
         <price>82.90</price>
         <compare_at_price/>
-        <available>true</available>
+        <available>false</available>
         <variant_title>Pure Whey Isolate 2KG</variant_title>
         <option1>Pure Whey Isolate 2KG</option1>
         <weight>2000</weight>
