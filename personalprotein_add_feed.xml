@@ -12239,7 +12239,7 @@ waarvan suikers/of which sugars&lt;/p&gt;
     <title>Omega-3 90 st.</title>
     <vendor>Personal Protein</vendor>
     <brand>Personal Protein</brand>
-    <product_type>Vitaminen &amp;amp; mineralen</product_type>
+    <product_type>OP = OP Sale</product_type>
     <tags>Los-Product, omega-3-los, Vitamin</tags>
     <published>false</published>
     <description>&lt;p&gt;90 softgels&lt;br /&gt;
@@ -12348,7 +12348,7 @@ waarvan suikers/of which sugars&lt;/p&gt;
     <title>Magnesium 90 st.</title>
     <vendor>Personal Protein</vendor>
     <brand>Personal Protein</brand>
-    <product_type>Vitaminen &amp;amp; mineralen</product_type>
+    <product_type>OP = OP Sale</product_type>
     <tags>los-magnesium, Los-Product, Vitamin</tags>
     <published>false</published>
     <description>&lt;p&gt;90 tabletten&lt;br /&gt;
@@ -13240,7 +13240,7 @@ Bewezen prestatieverhogend effect&lt;/p&gt;
     <title>Isotone sportdrank Lime 500 gram</title>
     <vendor>Personal Protein</vendor>
     <brand>Personal Protein</brand>
-    <product_type>Pre- en Post Workout</product_type>
+    <product_type>OP = OP Sale</product_type>
     <tags>Los-Isotone, Los-Product</tags>
     <published>false</published>
     <description>&lt;p&gt;Met 5 typen elektrolyten&lt;br /&gt;
@@ -13811,7 +13811,7 @@ Lekker voor tijdens het sporten&lt;/p&gt;
     <title>Isotone sportdrank Orange 500 gram</title>
     <vendor>Personal Protein</vendor>
     <brand>Personal Protein</brand>
-    <product_type>Pre- en Post Workout</product_type>
+    <product_type>OP = OP Sale</product_type>
     <tags>Los-Isotone, Los-Product</tags>
     <published>false</published>
     <description>&lt;p&gt;Met 5 typen elektrolyten&lt;br /&gt;
@@ -14368,7 +14368,7 @@ Lekker voor tijdens het sporten&lt;/p&gt;
         <barcode/>
         <price>9.95</price>
         <compare_at_price/>
-        <available>true</available>
+        <available>false</available>
         <variant_title>Isotone sportdrank Orange 500 gram</variant_title>
         <option1>Isotone sportdrank Orange 500 gram</option1>
         <weight>500</weight>
@@ -14382,7 +14382,7 @@ Lekker voor tijdens het sporten&lt;/p&gt;
     <title>Pre-Workout Tropical 300 gram</title>
     <vendor>Personal Protein</vendor>
     <brand>Personal Protein</brand>
-    <product_type>Pre- en Post Workout</product_type>
+    <product_type>OP = OP Sale</product_type>
     <tags>Los-Preworkout, Los-Product</tags>
     <published>false</published>
     <description>&lt;p&gt;Met cafeïne en vitamine C&lt;br /&gt;
@@ -15242,7 +15242,7 @@ De ultieme boost voor jouw training&lt;/p&gt;
         <barcode/>
         <price>19.95</price>
         <compare_at_price/>
-        <available>true</available>
+        <available>false</available>
         <variant_title>Pre-Workout Tropical 300 gram</variant_title>
         <option1>Pre-Workout Tropical 300 gram</option1>
         <weight>300</weight>
@@ -15256,7 +15256,7 @@ De ultieme boost voor jouw training&lt;/p&gt;
     <title>Pre-Workout Raspberry 300 gram</title>
     <vendor>Personal Protein</vendor>
     <brand>Personal Protein</brand>
-    <product_type>Pre- en Post Workout</product_type>
+    <product_type>OP = OP Sale</product_type>
     <tags>Los-Preworkout, Los-Product</tags>
     <published>false</published>
     <description>&lt;p&gt;Met cafeïne en vitamine C&lt;br /&gt;
@@ -16127,7 +16127,7 @@ De ultieme boost voor jouw training&lt;/p&gt;
     <title>Pre-Workout Peach 300 gram</title>
     <vendor>Personal Protein</vendor>
     <brand>Personal Protein</brand>
-    <product_type>Pre- en Post Workout</product_type>
+    <product_type>OP = OP Sale</product_type>
     <tags>Los-Preworkout, Los-Product</tags>
     <published>false</published>
     <description>&lt;p&gt;Met cafeïne en vitamine C&lt;br /&gt;
@@ -16984,7 +16984,7 @@ De ultieme boost voor jouw training&lt;/p&gt;
         <barcode/>
         <price>19.95</price>
         <compare_at_price/>
-        <available>true</available>
+        <available>false</available>
         <variant_title>Pre-Workout Peach 300 gram</variant_title>
         <option1>Pre-Workout Peach 300 gram</option1>
         <weight>300</weight>
@@ -20299,7 +20299,7 @@ waarvan suikers/of which sugars&lt;/p&gt;
         <barcode/>
         <price>47.50</price>
         <compare_at_price/>
-        <available>false</available>
+        <available>true</available>
         <variant_title>Pure Whey Isolate 1KG</variant_title>
         <option1>Pure Whey Isolate 1KG</option1>
         <weight>1000</weight>
