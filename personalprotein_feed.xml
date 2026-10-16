@@ -417,7 +417,7 @@
   <product>
     <sku>shot-blue-slush</sku>
     <barcode/>
-    <title>Clear Blue Slush Shot</title>
+    <title>clear blue slush</title>
     <price>4.95</price>
     <compare_at_price/>
     <available>false</available>
@@ -449,15 +449,6 @@
     <compare_at_price/>
     <available>false</available>
     <handle>clear-lemon-lime-shot</handle>
-  </product>
-  <product>
-    <sku>shot-cola</sku>
-    <barcode/>
-    <title>Clear Cola Shot</title>
-    <price>4.95</price>
-    <compare_at_price/>
-    <available>false</available>
-    <handle>clear-cola-shot</handle>
   </product>
   <product>
     <sku>shot-blood-orange</sku>
