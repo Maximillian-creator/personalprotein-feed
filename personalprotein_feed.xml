@@ -627,7 +627,7 @@
     <title>Natural Caramel Shot</title>
     <price>4.95</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <handle>natural-caramel-shot</handle>
   </product>
   <product>

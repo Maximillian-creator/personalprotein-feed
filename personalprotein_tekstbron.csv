@@ -1,5 +1,5 @@
 sku,titel,tekstbron,woorden,afbeeldingen,gewicht_g,prijs,prijs_regulier,prijs_actie,op_voorraad
-wpi1kgx2,Pure Whey Isolate 2KG,GEEN TEKST,0,1,2000,82.90,82.90,82.90,ja
+wpi1kgx2,Pure Whey Isolate 2KG,Pure Whey Isolate,339,1,2000,82.90,82.90,82.90,ja
 lmps1kg,Les Mills Protein Shake 1kg,GEEN TEKST,0,1,1000,45.00,45.00,33.75,nee
 bar-peanutcaramel,Peanut Caramel 12 repen,Peanut Caramel Protein Bar,244,1,,24.95,24.95,17.46,nee
 collageen-250gr-tropical,Collagen Tropical 250 gram,Collagen Flavoured,745,1,250,18.71,18.71,13.10,nee
@@ -14,9 +14,9 @@ bakeiwit-neutraal,Bakeiwit Neutraal 300 gram,Bakeiwit,559,1,300,14.95,14.95,14.9
 bakeiwit-speculoos,Bakeiwit Speculoos 300 gram,Bakeiwit,559,1,300,14.95,14.95,14.95,ja
 bakeiwit-chocolade1kg,Bakeiwit Chocolade 1 kilo,Bakeiwit,559,1,1000,46.73,46.73,46.73,ja
 bakeiwit-vanille1kg,Bakeiwit Vanille 1 kilo,Bakeiwit,559,1,1000,46.73,46.73,46.73,ja
-bakeiwit-chocolade,Bakeiwit Chocolade 300 gram,Bakeiwit,559,1,300,14.95,14.95,14.95,ja
+bakeiwit-chocolade,Bakeiwit Chocolade 300 gram,Bakeiwit,559,1,300,14.95,14.95,14.95,nee
 bakeiwit-vanille 300,Bakeiwit Vanille 300 gram,Bakeiwit,559,1,300,14.95,14.95,14.95,ja
-shot-van,Vanilla Shot,eigen pagina,206,2,,4.95,4.95,3.96,ja
+shot-van,Vanilla Shot,alleen korte omschrijving,21,2,,4.95,4.95,3.96,nee
 creatine-500gr,Creatine 500 gram,Creatine Monohydraat,268,1,500,13.95,13.95,13.95,ja
 veganpancakemix1kg,Vegan Protein Pancake Mix 1kg,Vegan Protein Pancake Mix,405,1,1000,20.95,20.95,12.57,nee
 pancakemix1kg,Protein Pancake Mix 1kg,Protein Pancake Mix,418,1,1000,24.95,24.95,17.46,ja
@@ -34,7 +34,7 @@ pre-peach,Pre-Workout Peach 300 gram,Pre-Workout,655,1,300,19.95,19.95,11.97,nee
 milkshake1kg,Protein Milkshake 1kg,Protein Milkshake,360,2,1000,34.95,34.95,20.97,nee
 wpc2kg,Pure Whey 2KG,Pure Whey,351,1,2000,74.50,74.50,74.50,ja
 wpc1kg,Pure Whey 1KG,Pure Whey,351,1,1000,38.00,38.00,38.00,ja
-wpi2kg,Pure Whey Isolate 2KG,Pure Whey Isolate,339,1,2000,82.90,82.90,82.90,nee
+wpi2kg,Pure Whey Isolate 2KG,GEEN TEKST,0,1,2000,82.90,82.90,82.90,nee
 wpi1kg,Pure Whey Isolate 1KG,Pure Whey Isolate,339,1,1000,47.50,47.50,47.50,ja
 shot-ban,Banana Shot,eigen pagina,207,2,,4.95,4.95,3.96,ja
 shot-coco,Coconut Shot,eigen pagina,206,2,,4.95,4.95,3.96,ja
@@ -45,11 +45,10 @@ shot-lemon,Clear Lemon Shot,alleen korte omschrijving,23,3,,4.95,4.95,2.95,nee
 shot-raspberry-clear,Clear Raspberry Shot,eigen pagina,228,1,,4.95,4.95,2.48,ja
 shot-car,Caramel Shot,eigen pagina,206,2,,4.95,4.95,3.96,ja
 shot-sour-berry,Clear Sour Berry Shot,alleen korte omschrijving,22,2,,4.95,4.95,3.71,nee
-shot-blue-slush,Clear Blue Slush Shot,alleen korte omschrijving,26,3,,4.95,4.95,2.95,nee
+shot-blue-slush,clear blue slush,alleen korte omschrijving,26,3,,4.95,4.95,2.95,nee
 "cwi0,75 kg",Clear Whey Isolate 750gr,Clear Whey Isolate,358,6,750,45.50,45.50,45.50,ja
 shot-tropical,Clear Tropical Shot,eigen pagina,225,3,,4.95,4.95,4.95,ja
 shot-lemon-lime,Clear Lemon Lime Shot,alleen korte omschrijving,22,3,,4.95,4.95,2.95,nee
-shot-cola,Clear Cola Shot,alleen korte omschrijving,22,2,,4.95,4.95,2.95,nee
 shot-blood-orange,Clear Blood Orange Shot,alleen korte omschrijving,22,3,,4.95,4.95,2.95,nee
 vms1kg,Vegan Diet Shake 1kg,Vegan Diet Shake,661,1,1000,29.95,29.95,17.97,nee
 dietshake1kg,Diet Shake 1kg,Diet Shake,656,2,1000,29.95,29.95,20.96,nee
@@ -68,8 +67,8 @@ shot-apple,Apple Cinnamon Shot,eigen pagina,207,2,,4.95,4.95,2.48,ja
 shot-cit,Citrus Shot,alleen korte omschrijving,21,2,,4.95,4.95,2.97,nee
 shot-bb,Blueberry Shot,alleen korte omschrijving,21,2,,4.95,4.95,2.95,nee
 shot-nat.van,Natural Vanilla Shot,alleen korte omschrijving,21,2,,4.95,4.95,2.48,nee
-shot-nat.straw,Natural Strawberry Shot,eigen pagina,209,2,,4.95,4.95,2.48,ja
-shot-nat.car,Natural Caramel Shot,eigen pagina,205,2,,4.95,4.95,2.48,ja
+shot-nat.straw,Natural Strawberry Shot,alleen korte omschrijving,21,2,,4.95,4.95,2.48,nee
+shot-nat.car,Natural Caramel Shot,alleen korte omschrijving,21,2,,4.95,4.95,2.48,nee
 shot-cookie,Cookie Shot,alleen korte omschrijving,21,2,,4.95,4.95,2.48,nee
 shot-spec,Speculaas Shot,alleen korte omschrijving,21,2,,4.95,4.95,4.21,nee
 shot-sunset,Clear Sunset Shot,alleen korte omschrijving,24,3,,4.95,4.95,2.95,nee
