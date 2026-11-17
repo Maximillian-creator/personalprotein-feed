@@ -15,7 +15,7 @@
     <title>Les Mills Protein Shake 1kg</title>
     <price>45.00</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <handle>les-mills-protein-shake-1kg</handle>
   </product>
   <product>
@@ -510,7 +510,7 @@
     <title>Mixed Fruit Shot</title>
     <price>4.95</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <handle>mixed-fruit-shot</handle>
   </product>
   <product>
