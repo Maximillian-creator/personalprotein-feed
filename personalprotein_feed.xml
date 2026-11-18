@@ -510,7 +510,7 @@
     <title>Mixed Fruit Shot</title>
     <price>4.95</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <handle>mixed-fruit-shot</handle>
   </product>
   <product>
