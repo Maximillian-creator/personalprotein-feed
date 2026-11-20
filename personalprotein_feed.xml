@@ -582,7 +582,7 @@
     <title>Apple Cinnamon Shot</title>
     <price>4.95</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <handle>apple-cinnamon-shot</handle>
   </product>
   <product>
