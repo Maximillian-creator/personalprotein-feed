@@ -1,12 +1,12 @@
 sku,titel,tekstbron,woorden,afbeeldingen,gewicht_g,prijs,prijs_regulier,prijs_actie,op_voorraad
-wpi1kgx2,Pure Whey Isolate 2KG,Pure Whey Isolate,339,1,2000,82.90,82.90,62.18,nee
-lmps1kg,Les Mills Protein Shake 1kg,GEEN TEKST,0,1,1000,45.00,45.00,33.75,nee
+wpi1kgx2,Pure Whey Isolate 2KG,Pure Whey Isolate,339,1,2000,82.90,82.90,62.18,ja
+lmps1kg,Les Mills Protein Shake 1kg,GEEN TEKST,0,1,1000,45.00,45.00,33.75,ja
 bar-peanutcaramel,Peanut Caramel 12 repen,Peanut Caramel Protein Bar,244,1,,24.95,24.95,17.46,nee
 collageen-250gr-tropical,Collagen Tropical 250 gram,Collagen Flavoured,745,1,250,18.71,18.71,13.10,nee
 collageen-250gr-red-fruit,Collagen Red Fruit 250 gram,Collagen Flavoured,745,1,250,18.71,18.71,13.10,nee
 collageen-250gr-citrus,Collagen Citrus 250 gram,Collagen Flavoured,745,1,250,18.71,18.71,13.10,nee
 vitaminde-d3-240st,Vitamine D3 240 st.,Vitamine D3,246,1,,10.27,10.27,6.15,ja
-bakeiwit-neutraal1kg,Bakeiwit Neutraal 1 kilo,Bakeiwit,559,1,1000,46.83,46.83,35.12,ja
+bakeiwit-neutraal1kg,Bakeiwit Neutraal 1 kilo,Bakeiwit,559,1,1000,46.83,46.83,35.12,nee
 bakeiwit-speculoos1kg,Bakeiwit Speculoos 1 kilo,Bakeiwit,559,1,1000,46.83,46.83,35.12,ja
 protein-water-peach,Protein Water Peach 6-pack,Protein Water,277,1,,16.04,16.04,8.02,nee
 protein-water-citrus,Protein Water Citrus 6-pack,Protein Water,277,1,,16.04,16.04,8.02,nee
@@ -35,7 +35,7 @@ milkshake1kg,Protein Milkshake 1kg,Protein Milkshake,360,2,1000,34.95,34.95,20.9
 wpc2kg,Pure Whey 2KG,Pure Whey,351,1,2000,74.50,74.50,55.88,ja
 wpc1kg,Pure Whey 1KG,Pure Whey,351,1,1000,38.00,38.00,28.50,ja
 wpi2kg,Pure Whey Isolate 2KG,GEEN TEKST,0,1,2000,82.90,82.90,82.90,nee
-wpi1kg,Pure Whey Isolate 1KG,Pure Whey Isolate,339,1,1000,47.50,47.50,35.63,nee
+wpi1kg,Pure Whey Isolate 1KG,Pure Whey Isolate,339,1,1000,47.50,47.50,35.63,ja
 shot-ban,Banana Shot,eigen pagina,207,2,,4.95,4.95,3.71,ja
 shot-coco,Coconut Shot,eigen pagina,206,2,,4.95,4.95,3.71,ja
 shot-choc,Chocolate Shot,eigen pagina,206,2,,4.95,4.95,3.71,ja
@@ -63,7 +63,7 @@ peap1kg,Vegan Pea Protein 1kg,Erwten Eiwit,355,1,1000,22.95,22.95,17.21,ja
 shot-pea,Peach Shot,alleen korte omschrijving,21,2,,4.95,4.95,3.96,nee
 shot-honey,Honey Shot,eigen pagina,206,1,,4.95,4.95,2.48,ja
 shot-cheese,Cheesecake Shot,alleen korte omschrijving,21,2,,4.95,4.95,2.48,nee
-shot-apple,Apple Cinnamon Shot,eigen pagina,207,2,,4.95,4.95,2.48,ja
+shot-apple,Apple Cinnamon Shot,alleen korte omschrijving,21,2,,4.95,4.95,2.48,nee
 shot-cit,Citrus Shot,alleen korte omschrijving,21,2,,4.95,4.95,2.97,nee
 shot-bb,Blueberry Shot,alleen korte omschrijving,21,2,,4.95,4.95,2.95,nee
 shot-nat.van,Natural Vanilla Shot,alleen korte omschrijving,21,2,,4.95,4.95,2.48,nee
