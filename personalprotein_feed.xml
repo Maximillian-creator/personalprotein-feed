@@ -105,7 +105,7 @@
     <title>Bakeiwit Neutraal 300 gram</title>
     <price>14.95</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <handle>bakeiwit-neutraal-300-gram</handle>
   </product>
   <product>
@@ -528,7 +528,7 @@
     <title>Mango Shot</title>
     <price>4.95</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <handle>mango-shot</handle>
   </product>
   <product>
